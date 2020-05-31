@@ -27,7 +27,7 @@ var config = {
 
 	language: "en",
 	timeFormat: 24,
-	units: "metric",
+	units: "imperial",
 	// serverOnly:  true/false/"local" ,
 			     // local for armv6l processors, default
 			     //   starts serveronly and then starts chrome browser

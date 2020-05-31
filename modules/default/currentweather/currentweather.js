@@ -28,7 +28,7 @@ Module.register("currentweather",{
 		lang: config.language,
 		decimalSymbol: ".",
 		showHumidity: false,
-		degreeLabel: false,
+		degreeLabel: true, // Default is false
 		showIndoorTemperature: false,
 		showIndoorHumidity: false,
 		showFeelsLike: true,
